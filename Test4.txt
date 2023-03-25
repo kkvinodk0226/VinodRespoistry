@@ -1,0 +1,14 @@
+Test40325  
+
+GITHUB is website to upload your repository online
+  Provides backup
+  Provides  visual  interface to your repository 
+  Makes collaboration easier
+  
+  GIT is version control system where as GITHUB  is website to upload , GIT and Github are not related
+  
+  Howto clone
+  how to create branch
+  add , commit, push
+  how to resolve conflict
+  how to create push request or merge request
